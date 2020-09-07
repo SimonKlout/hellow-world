@@ -1,2 +1,4 @@
 # hellow-world
-Juste un nouvel Entrepôt
+
+Hi humans!
+Simon here, I like Python scripting.
